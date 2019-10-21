@@ -1,0 +1,2 @@
+Untuk Ngejalanin Script Ketik : bash gabut.sh
+Sorry kalo masih jelek,masih pertama kali buat hehe
